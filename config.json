@@ -1,0 +1,19 @@
+{
+  "threshold": 0.377168325660061,
+  "model_name": "Без весов",
+  "selection_metric": "validation F0.5",
+  "features": [
+    "fixed_acidity",
+    "volatile_acidity",
+    "citric_acid",
+    "residual_sugar",
+    "chlorides",
+    "free_sulfur_dioxide",
+    "total_sulfur_dioxide",
+    "density",
+    "pH",
+    "sulphates",
+    "alcohol",
+    "is_red"
+  ]
+}
